@@ -1,0 +1,22 @@
+
+#navbar-brand {
+    font-weight: 900;
+}
+
+
+.app-title {
+    font-weight: 900; 
+    font-size: 3rem;
+}
+
+.flow-text{
+    font-weight: 100; 
+}
+
+.login {
+    width: 27.5% !important;
+}
+
+.unique-color-dark {
+    background: #1c2331 !important;
+}
